@@ -2,7 +2,7 @@
 # 1 -> Configuração inicial
 
 ```bash
-git config --global user.name "Seu user name"
+git config --global user.name "Seu username"
 git config --global user.email "seuemail@email.com"
 ```
 # 2. Criação e clonagem de repositórios
